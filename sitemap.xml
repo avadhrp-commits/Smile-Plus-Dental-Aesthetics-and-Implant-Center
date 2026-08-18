@@ -1,8 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.thesmileplus.in/</loc>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.thesmileplus.in/assets/img/hero-poster.jpg</image:loc>
+      <image:title>Smile+ Dental Aesthetics &amp; Implant Center, Ghatlodia, Ahmedabad</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thesmileplus.in/assets/img/ba-teeth-whitening-after.jpg</image:loc>
+      <image:title>Teeth whitening before and after result at Smile+ Ahmedabad</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thesmileplus.in/assets/img/ba-veneers-1-after.jpg</image:loc>
+      <image:title>Porcelain veneers before and after result at Smile+ Ahmedabad</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thesmileplus.in/assets/img/ba-implant-1-after.jpg</image:loc>
+      <image:title>Dental implant restoration result at Smile+ Ahmedabad</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thesmileplus.in/assets/img/dr-yashasvi-patel.jpg</image:loc>
+      <image:title>Dr. Yashasvi Patel, Dental Surgeon at Smile+ Ahmedabad</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thesmileplus.in/assets/img/iso-badge.png</image:loc>
+      <image:title>ISO 9001:2015 Certified Dental Clinic Badge — Smile+ Ahmedabad</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thesmileplus.in/patient-care.html</loc>
+    <lastmod>2026-08-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>

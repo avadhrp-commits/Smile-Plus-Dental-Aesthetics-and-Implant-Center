@@ -542,7 +542,7 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit;}
 .ba-caption{
   padding:1.1rem 1.3rem 1.4rem;
 }
-.ba-caption h4{font-family:var(--font-display);font-size:1.05rem;color:var(--espresso-800);margin-bottom:0.3rem;}
+.ba-caption h3{font-family:var(--font-display);font-size:1.05rem;color:var(--espresso-800);margin-bottom:0.3rem;}
 .ba-caption p{font-size:0.82rem;color:var(--muted);}
 .ba-hint{
   text-align:center;font-size:0.8rem;color:var(--muted);margin-top:1.6rem;
@@ -601,7 +601,7 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit;}
   background:rgba(251,247,240,0.08);
   border:1px solid rgba(251,247,240,0.15);
 }
-.doctor-content h4{
+.doctor-content .doctor-heading{
   font-family:var(--font-display);font-weight:560;
   font-size:1.4rem;color:var(--espresso-800);margin-bottom:1rem;
 }
@@ -646,7 +646,7 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit;}
 /* ============================================================ Testimonials */
 .video-grid{
   display:grid;
-  grid-template-columns:repeat(4,1fr);
+  grid-template-columns:repeat(3,1fr);
   gap:1.1rem;
   align-items:start;
 }
@@ -762,7 +762,7 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit;}
   display:flex;align-items:center;justify-content:center;
 }
 .visit-row .icon svg{width:20px;height:20px;}
-.visit-row h4{font-family:var(--font-display);font-size:1rem;color:var(--espresso-800);margin-bottom:0.2rem;}
+.visit-row h3{font-family:var(--font-display);font-size:1rem;color:var(--espresso-800);margin-bottom:0.2rem;}
 .visit-row p, .visit-row a{font-size:0.9rem;color:var(--muted);line-height:1.55;}
 .visit-row a:hover{color:var(--gold-600);}
 .map-embed{
@@ -844,7 +844,7 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit;}
 }
 .footer-logo-img{height:42px;width:auto;display:block;}
 .footer-brand p{font-size:0.88rem;line-height:1.6;max-width:34ch;color:rgba(251,247,240,0.6);}
-.footer-col h5{
+.footer-col h3{
   font-family:var(--font-body);font-size:0.75rem;letter-spacing:0.12em;text-transform:uppercase;
   color:var(--gold-300);margin-bottom:1.1rem;
 }
