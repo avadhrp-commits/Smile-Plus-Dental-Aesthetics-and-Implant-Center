@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "smileplus-github-repo",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8174"],
+      "port": 8174
+    }
+  ]
+}
