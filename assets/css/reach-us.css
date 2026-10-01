@@ -98,9 +98,9 @@
 .reach-qr{display:flex;flex-direction:column;align-items:center;gap:0.6rem;}
 .reach-qr img{
   width:128px;height:128px;
-  padding:7px;
-  background:var(--white);
-  border:1px solid rgba(74,50,38,0.12);
+  padding:10px;
+  background:transparent;
+  border:1.5px solid rgba(74,50,38,0.16);
   border-radius:var(--radius-sm);
 }
 .reach-qr span{font-size:0.76rem;color:var(--muted);text-align:center;max-width:220px;line-height:1.4;}
