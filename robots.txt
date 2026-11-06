@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.thesmileplus.in/sitemap.xml
+Sitemap: https://thesmileplus.in/sitemap.xml
