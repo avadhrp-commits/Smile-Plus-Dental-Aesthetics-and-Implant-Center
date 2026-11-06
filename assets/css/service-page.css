@@ -296,6 +296,8 @@
 .article-body li{font-size:1.01rem;line-height:1.7;color:var(--espresso-700);}
 .article-body strong{color:var(--espresso-900);}
 .article-body a{color:var(--gold-600);font-weight:600;text-decoration:underline;text-decoration-color:rgba(169,124,47,0.35);text-underline-offset:3px;}
+.article-body .faq-item p{font-size:0.95rem;line-height:1.65;margin-bottom:0;color:var(--muted);}
+.article-body .faq-item summary{font-size:1.05rem;}
 .article-share{
   display:flex;align-items:center;gap:1rem;flex-wrap:wrap;
   margin-top:2.6rem;padding-top:1.6rem;
